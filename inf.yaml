@@ -1,0 +1,10 @@
+ path:
+train: vegsdataset/images/ 
+val: vegsdataset/images/
+test:  # test images (optional)
+
+# Classes 
+names:
+  0:  tomato
+  1:  cucumber
+  2:  cabage

@@ -1,0 +1,5 @@
+cd /docker-din/yolov5
+
+docker build -t dinozavrikkkk/catnip .  
+
+docker run  dinozavrikkkk/catnip
